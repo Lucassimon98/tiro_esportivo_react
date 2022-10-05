@@ -3,3 +3,10 @@
     background-color: #403876;
     color: white;
 }
+.ant-spin-dot-item {
+    background-color: white !important;
+}
+
+.btn-color {
+    color: black;
+}
