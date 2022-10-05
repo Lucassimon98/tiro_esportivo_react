@@ -1,4 +1,4 @@
-import { InputLabel } from '../../component/inputLabel/InputLabel';
+import { InputLabel } from '../../components/inputLabel/InputLabel';
 import './index.css'
 
 function Login() {
